@@ -2,11 +2,10 @@
 
 
 
-- 🔭 I’m currently working on React Js.
+- 🔭 I’m currently working on DSA.
 - 🌱 I’m currently learning Decentralized Application Development
 - 👯 I’m looking to collaborate on Ethereum Blockchain.
 - 🤔 I’m looking for help with Dapp development.
-- 💬 Ask me about blockchain.
 - 📫 How to reach me: tushantbhware102@gmail.com
 - ⚡ Fun fact: Watching silicon valley
 
