@@ -2,7 +2,7 @@
 
 
 
-- 🔭 Working on IOS Development
+- 🔭 Working on Fullstack Development
 - 📫 How to reach me: tushantbhware102@gmail.com
 - ❤️ I love competitive coding.
 - 😎 [Here I am](https://tushant1037.github.io/me/)
